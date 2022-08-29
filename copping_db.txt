@@ -1,0 +1,6 @@
+mysqldump -u root -p database_name > d:\db\classicmodels.sql
+Enter password: **********
+
+mysql -u root -p database_name_backup < d:\db\classicmodels.sql
+Enter password: **********
+
