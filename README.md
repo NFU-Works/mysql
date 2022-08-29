@@ -28,4 +28,5 @@ The query 'comparing_two_tables' is how to compate two tables.
 
 The query 'index_creating_practice' has a creating the index. Indexes are created when DB has a lot of data and thousands elements, but I've created one for practice.
 
+The copping of DB is in the console. In txt file 'copping_db.txt' there are two commands for command line to copy the DB.
 Later I will develop the project by adding functionality.
